@@ -9,7 +9,7 @@
     "url": "git://github.com/Quirkbot/npm-arduino-avrdude.git"
   },
   "binary": {
-    "module_name": "avr_gcc",
+    "module_name": "avrdude",
     "module_path": "./tools/",
     "remote_path": "./npm-arduino/",
     "package_name": "{module_name}-{version}-{platform}-{arch}.tar.bz",
