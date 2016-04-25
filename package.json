@@ -1,6 +1,6 @@
 {
   "name": "npm-arduino-avrdude",
-  "version": "6.0.1-arduino5",
+  "version": "6.0.1-arduino5-gz",
   "description": "Installs Arduino's avrdude via npm.",
   "main": "./index.js",
   "author": "Paulo Barcelos",
@@ -12,7 +12,7 @@
     "module_name": "avrdude",
     "module_path": "./tools/",
     "remote_path": "./npm-arduino/",
-    "package_name": "{module_name}-{version}-{platform}-{arch}.tar.bz",
+    "package_name": "{module_name}-{version}-{platform}-{arch}.tar.gz",
     "host": "https://s3.amazonaws.com"
   },
   "dependencies": {
